@@ -4,7 +4,9 @@
 */
 
 #include <thread>
-#include <unistd.h>
+//#include <unistd.h>
+#include <io.h>
+#include <process.h>
 #include <random>
 #include <string>
 #include <chrono>
